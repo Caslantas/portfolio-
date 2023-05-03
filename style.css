@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&family=Roboto:ital@1&display=swap');
+
+body {
+  background-color: #f9f9de;
+  font-family: 'Montserrat', 'Roboto', sans-serif;
+}
+.nav-link.active {
+  color: red !important;
+}
+.heading {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+.img-fluid {
+  padding-bottom: 20px;
+}
